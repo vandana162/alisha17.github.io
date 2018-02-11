@@ -8,17 +8,16 @@ highlighter:      pygments
 title:            Vandana Tomar
 tagline:          'Welcome'
 description:      'Programmer by Profession, Explorer by Heart <3'
-url:              http://alisha17.github.io
+url:              http://vandana162.github.io
 
 author:
-  name:           'Alisha Aneja'
-  url:             alisha17.github.io
-  email:          'anejaalisha37@gmail.com'
-  github:         'https://github.com/alisha17'
-  twitter:        'https://twitter.com/alisha_aneja17'
-  linkedin:       'https://www.linkedin.com/in/alisha-aneja-509252128/'
-  wordpress:      'https://mealisha.wordpress.com/'
-  rss:            'https://alisha17.github.io/feed.xml'
+  name:           'Vandana Tomar'
+  url:             vandana162.github.io
+  email:          'tomarvandana93@gmail.com'
+  github:         'https://github.com/vandana162'
+  twitter:        'https://twitter.com/vandana_tomar'
+  linkedin:       'https://www.linkedin.com/in/vandana-tomar-968bb668/'
+  rss:            'https://vandana162.github.io/feed.xml'
 
 paginate:         5
 
@@ -26,7 +25,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/alisha17
+  repo:           https://github.com/vandana162
 
 gems:             [jekyll-gist, jekyll-paginate, jekyll-archives]
 
