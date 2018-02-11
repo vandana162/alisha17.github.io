@@ -5,14 +5,14 @@ highlighter:      pygments
 # Permalinks
 
 # Setup
-title:            Alisha Aneja
+title:            Vandana Tomar
 tagline:          'Welcome'
-description:      'Programmer by Profession, Explorer by Heart <3'
-url:              http://alisha17.github.io
+description:      'If you can't follow the rules, break them'
+url:              http://vandana162.github.io
 
 author:
-  name:           'Alisha Aneja'
-  url:             alisha17.github.io
+  name:           'Vandana Tomar'
+  url:             vandana162.github.io
   email:          'anejaalisha37@gmail.com'
   github:         'https://github.com/alisha17'
   twitter:        'https://twitter.com/alisha_aneja17'
@@ -26,7 +26,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/alisha17
+  repo:           https://github.com/vandana162
 
 gems:             [jekyll-gist, jekyll-paginate, jekyll-archives]
 
