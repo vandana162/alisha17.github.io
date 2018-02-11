@@ -36,5 +36,5 @@ defaults:
     values:
       image: true
 
-plugins:
+plugins_dir:
   - jekyll-feed

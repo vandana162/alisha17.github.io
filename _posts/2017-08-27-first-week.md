@@ -4,8 +4,7 @@ title: First Week of Machine Learning Internship at SilverPond
 categories: [Silverpond]
 comments: true
 ---
-
-I joined SilverPond as a Machine Learning Intern under the Victorian Chamber Internship Program. It was an interesting opportunity and I was very excited for it since working with data has always intrigued me.
+I am Vandana Tomar. I am hot very hot!
 
 ![ml]({{ site.url }}/assets/silverpond11.jpg)
 
